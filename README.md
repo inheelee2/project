@@ -17,14 +17,14 @@
        - 주소 클릭 -> 런타임 -> 모두 실행
   
 영어 감정 분석
-  1. Logistic Regression: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+  1. Logistic Regression: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_?usp=sharing
        - 주소 클릭 -> EDIT 버튼 클릭 -> RUN -> RUN ALL 실행
   2. LSTM: https://www.kaggle.com/inheelee2/1-2-lstm-multi-class-text-classification
        - 주소 클릭 -> EDIT 버튼 클릭 -> RUN -> RUN ALL 실행
-  3. RandomForest: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+  3. RandomForest: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_?usp=sharing
        - 주소 클릭 -> 런타임 -> 모두 실행
-  4. Naive Bayian: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+  4. Naive Bayian: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_?usp=sharing
        - 주소 클릭 -> 런타임 -> 모두 실행
-  5. SVM :https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+  5. SVM :https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_?usp=sharing
        - 주소 클릭 -> 런타임 -> 모두 실행  
   
