@@ -24,7 +24,12 @@
        - 주소 클릭 -> EDIT 버튼 클릭 -> RUN -> RUN ALL 실행
   2. LSTM: https://www.kaggle.com/inheelee2/1-2-lstm-multi-class-text-classification
        - 주소 클릭 -> EDIT 버튼 클릭 -> RUN -> RUN ALL 실행
-  3.  
-       - 주소 클릭 -> EDIT 버튼 클릭 -> RUN -> RUN ALL 실행
-  4.  BERT: https://colab.research.google.com/drive/1rccRxqg8R6jP24uiuOre2F1fjoWYO3da?usp=sharing
+  3. RandomForest: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
        - 주소 클릭 -> 런타임 -> 모두 실행
+  4. Naive Bayian: https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+       - 주소 클릭 -> 런타임 -> 모두 실행
+  5. SVM :https://colab.research.google.com/drive/1JhXBeqdnFBtndCiKsn8V7Laoi2MdgZ2_#scrollTo=ivGkl-WKaaIf
+       - 주소 클릭 -> 런타임 -> 모두 실행  
+  5.  BERT: https://colab.research.google.com/drive/1rccRxqg8R6jP24uiuOre2F1fjoWYO3da?usp=sharing
+       - 주소 클릭 -> 런타임 -> 모두 실행
+  
